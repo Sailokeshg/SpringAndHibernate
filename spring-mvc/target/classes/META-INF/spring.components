@@ -1,0 +1,5 @@
+com.zemoso.sprindemo.mvc.CustomerController=org.springframework.stereotype.Component
+com.zemoso.sprindemo.mvc.HelloWorldController=org.springframework.stereotype.Component
+com.zemoso.sprindemo.mvc.HomeController=org.springframework.stereotype.Component
+com.zemoso.sprindemo.mvc.SillyController=org.springframework.stereotype.Component
+com.zemoso.sprindemo.mvc.StudentController=org.springframework.stereotype.Component
